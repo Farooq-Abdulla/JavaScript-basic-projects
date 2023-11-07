@@ -1,0 +1,42 @@
+.navbar{
+    background-color: rgb(237 243 244 / 97%);
+    height: auto;
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+.nav-links li {
+    list-style: none;
+    display: inline;
+    margin: 5px 25px 5px 35px;
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-size: large;
+    color: blue;
+}
+.bc{
+    margin:auto;
+    margin-top: 250px;
+    width: fit-content;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+
+}
+/* #color{
+    color: rgb(142 142 255);
+} */
+.btun{
+    text-align: center;
+}
+#color-filler{
+    color: #9e5353;
+}
